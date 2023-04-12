@@ -1,0 +1,17 @@
+@import url(home.css);
+@import url(promo.css);
+@import url(cardapio.css);
+@import url(nosso_espaco.css);
+@import url(nossa_casa.css);
+@import url(contato.css);
+@import url(localizacao.css);
+@import url(footer.css);
+
+:root{
+    --cor1:#212522;
+    --cor2:#ef7f00;
+    --cor3:#473001;
+    --cor4:#1a1a1a;
+    --cor5: black;
+    --cor6:white;
+}
