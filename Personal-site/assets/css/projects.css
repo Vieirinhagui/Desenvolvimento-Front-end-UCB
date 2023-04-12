@@ -34,4 +34,13 @@
     justify-content: center;
     gap: 2rem;
   }
+
+  #projects img {
+    width: 30vw;
+  }
+
+  .projects {
+    justify-content: center;
+    gap: 2rem;
+  }
 }
